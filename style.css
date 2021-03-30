@@ -651,7 +651,9 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #fff!important;
+    font-weight: bold;
+    font-style: italic;
 }
 
 .container {
@@ -1042,8 +1044,12 @@ h4 {
     }
 }
 
-.social {
+.social a{
     color: #FFF;
+}
+
+.social span {
+    padding: 5px;
 }
 
 .citation, .pointsforts {
