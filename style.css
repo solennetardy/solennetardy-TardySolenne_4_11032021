@@ -27,19 +27,6 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
-.citation, .pointsforts {
-    font-size: 18px;
-    font-weight: bold;
-}
-
-.social {
-    color: #FFF;
-}
-
-.presentation {
-    font-size: 16px;
-}
-
 .bloc {
     width: 100%;
     clear: both;
@@ -1053,4 +1040,17 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.social {
+    color: #FFF;
+}
+
+.citation, .pointsforts {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.presentation {
+    font-size: 16px;
 }
