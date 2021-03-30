@@ -27,6 +27,19 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
+.citation, .pointsforts {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.social {
+    color: #FFF;
+}
+
+.presentation {
+    font-size: 16px;
+}
+
 .bloc {
     width: 100%;
     clear: both;
@@ -683,10 +696,6 @@ p {
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
-}
-
-.citation, .pointsforts {
-    font-size: 16px;
 }
 
 
