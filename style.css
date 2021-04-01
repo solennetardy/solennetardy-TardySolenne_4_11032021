@@ -1043,11 +1043,6 @@ h4 {
     }
 }
 
-
-.social span {
-    padding: 5px;
-}
-
 .citation, .pointsforts {
     font-size: 18px;
     font-weight: bold;
@@ -1070,4 +1065,17 @@ h4 {
 .logolachouette{
     width: 200px;
     height: auto;
+}
+
+.logosocial{
+    display: flex;
+    justify-content: center;
+}
+
+.espace{
+    margin: 5px;
+}
+
+.social a:hover{
+    color: #F3976C;
 }
