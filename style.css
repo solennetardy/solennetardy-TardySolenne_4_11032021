@@ -683,7 +683,7 @@ p {
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
+    max-width: 700px;
     margin: auto auto auto auto;
 }
 
@@ -1058,11 +1058,16 @@ h4 {
 }
 
 .img-responsive {
-    height: 320px;
-    width: 320px;
+    height: auto;
+    max-width: 320px;
 }
 
 .logo2 {
     height: 100px;
     width: 100px;
+}
+
+.logolachouette{
+    width: 200px;
+    height: auto;
 }
