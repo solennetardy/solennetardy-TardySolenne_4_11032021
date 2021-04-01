@@ -679,7 +679,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 13px;
 }
 
 .tight-width-whitespace {
@@ -795,7 +795,7 @@ h4 {
 }
 
 .ltc-white:hover {
-    color: #cccccc!important;
+    color: black!important;
 }
 
 .ltc-atomic-tangerine {
@@ -965,7 +965,7 @@ h4 {
     }
     .navbar-brand img {
         max-height: 40px;
-        width: auto;
+        width: 210px;
     }
     .nav-invert .navbar-header {
         float: none;
@@ -1065,9 +1065,4 @@ h4 {
 .logo2 {
     height: 100px;
     width: 100px;
-}
-
-.logolachouette {
-    height: 40px;
-    width: 210px;
 }
